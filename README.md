@@ -102,3 +102,24 @@ Let’s keep improving.
 Let’s help each other grow.
 
 **— Prasad Mane**
+
+---
+
+# 📊 Repository Analytics & Traffic
+
+Thanks for visiting this project!  
+Here are the live analytics of this repository 👇
+
+### 👁️ Total Visitors  
+![Repo Visitors](https://visitor-badge.laobi.icu/badge?page_id=code-withprasad.cpp_object_oriented_programming)
+
+### ⭐ GitHub Activity  
+![GitHub Repo stars](https://img.shields.io/github/stars/code-withprasad/cpp_object_oriented_programming?style=social)
+![GitHub forks](https://img.shields.io/github/forks/code-withprasad/cpp_object_oriented_programming?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/code-withprasad/cpp_object_oriented_programming?style=social)
+
+### 📈 Detailed Traffic & Insights  
+[![GitHub Insights](https://img.shields.io/badge/Traffic-Insights-green)](https://github.com/code-withprasad/cpp_object_oriented_programming/graphs/traffic)
+
+---
+
