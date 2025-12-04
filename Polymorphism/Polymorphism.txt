@@ -1,0 +1,32 @@
+/*
+=====================================================================
+                           🔥 POLYMORPHISM IN C++ 🔥
+=====================================================================
+
+📌 Easy Understanding:
+Polymorphism means "many forms".  
+A single function, object, or operator can behave differently in different situations.
+
+📌 Definition:
+Polymorphism allows **one interface to be used for multiple forms**.
+
+📌 Types:
+1. Compile-time Polymorphism (Static)
+    - Function Overloading
+    - Operator Overloading
+2. Run-time Polymorphism (Dynamic)
+    - Method Overriding (with virtual functions)
+
+📌 Real-Life Example:
+A person can have multiple roles:
+    - Student
+    - Employee
+    - Teacher
+The same "work()" function behaves differently depending on role.
+
+📌 Why Use:
+✔ Code Reusability
+✔ Flexibility
+✔ Clean and modular design
+=====================================================================
+*/
